@@ -1,0 +1,7 @@
+You need to install the packages mention below :
+
+1)  pip install SpeechRecognition
+2)  pip install PyAudio
+3)  pip install pyttsx3
+
+--enjoy--
